@@ -1,4 +1,4 @@
-##WHAT IS IT?
+#WHAT IS IT?
 
 This model simulates a world of 200 identical countries, each with its own currency. All countries start with the same economic fundamentals and experience identical, rapid inflation. The model explores whether currencies can still diverge in strength over time due purely to small, random fluctuations — a visual demonstration of symmetry breaking, path dependence, and emergent inequality in global currency systems.
 
